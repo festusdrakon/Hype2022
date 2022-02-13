@@ -3,7 +3,7 @@ title:               Hype 2022
 tagline:             'Privacy Concerns in Metrics: Simplified, Visualized'
 description:         'A <a href="https://diri.isb.edu/en.html" target="_blank">DIRI</a> initiative to further the clarification of collected data'
 url:                 https://festusdrakon.github.io/Hype2022
-baseurl:             ''
+baseurl:             'Hype2022'
 paginate:            5
 permalink:           pretty
 
