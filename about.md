@@ -18,4 +18,4 @@ Participate and get a chance to grab hoodies like
 ![Hype T shirt](/public/assets/TShirt.jpeg)
 
 ### And stickers!
-*Register now to find out ;)*
+*Register now to find out*
