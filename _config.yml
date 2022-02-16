@@ -2,8 +2,8 @@
 title:               Hype 2022
 tagline:             'Gauging Levels of Misreprentation and Misinformation in Privacy Policies'
 description:         'A <a href="https://diri.isb.edu/en.html" target="_blank">DIRI</a> initiative to further the clarification of collected data'
-url:                 https://festusdrakon.github.io/Hype2022
-baseurl:             'Hype2022'
+url:                 https://festusdrakon.github.io
+baseurl:             /Hype2022
 paginate:            5
 permalink:           pretty
 
