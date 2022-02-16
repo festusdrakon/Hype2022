@@ -3,8 +3,19 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use.
-</p>
+[![Hype 2022!](/public/assets/hype-poster.png)](https://kvjitq699et.typeform.com/to/BEVEF63i)
 
-![Keep calm and carry on the HYPE!](/public/assets/keepcalmandhype.jpg)
+## GOODIES
+Participate and get a chance to grab hoodies like
+
+### Hoodies!
+![Hype Hoodie](/public/assets/Hoodie.jpeg)
+
+### Mugs!
+![Hype Mug](/public/assets/Mug.jpeg)
+
+### Tees!
+![Hype T shirt](/public/assets/TShirt.jpeg)
+
+### And stickers!
+*Register now to find out ;)*
