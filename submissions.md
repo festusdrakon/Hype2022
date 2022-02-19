@@ -87,7 +87,7 @@ form select {
 </style>
 
 <form
-  action="https://formspree.io/f/xqknqykr"
+  action="https://formspree.io/f/mlezbpgr"
   method="POST"
 >
   <label>
